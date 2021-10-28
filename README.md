@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 - Data/ML Engineer
 - Mandarin-Japanese-English trilingual speaker
+
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=html" alt="aibazhang" />
+</p>
