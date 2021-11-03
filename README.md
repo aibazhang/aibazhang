@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html" alt="aibazhang" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html,Pug" alt="aibazhang" />
 </p>
