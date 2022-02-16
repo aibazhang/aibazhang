@@ -1,4 +1,4 @@
-### Hi there, I'm Aiba Zhang 👋
+### Hi there, I'm J.C. Zhang 👋
 
 <!--
 **aibazhang/aibazhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
