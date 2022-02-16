@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 🔭 I'm a Data Engineer working on Building Data Infrastructure, ETL Development and Data Visualization
-- 🌱 Learning JavaScript
-- 💬 Mandarin-Japanese-English trilingual speaker
-- 🧑🏻‍💻 Programming Languages and Tools
 
 <p align="left">
 <img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/>
@@ -27,6 +22,11 @@ Here are some ideas to get you started:
 <img src="https://simpleicons.org/icons/microsoftazure.svg" alt="Azure" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="40" height="40"/>
 </p>
+
+-->
+- A Data Engineer working on Building Data Platform, ETL Development and Data Visualization
+- Mandarin-Japanese-English trilingual speaker
+- Fingerstyle guitarist
 
 
 
