@@ -14,22 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="left">
-<img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/apachespark.svg" alt="Apach-Spark" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/microsoftazure.svg" alt="Azure" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="40" height="40"/>
-</p>
-
 -->
 - A Data Engineer working on Building Data Platform, ETL Development and Data Visualization
 - Mandarin-Japanese-English trilingual speaker
 - Fingerstyle guitarist
 
-
-
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html,Pug,Dockerfile" alt="aibazhang" />
+  <br/><br/><br/><br/><br/><br/>
+</p>
+
+<p align='left'>
+  <b>Framework & Other Tools</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
