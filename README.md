@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html,Pug,Dockerfile" alt="aibazhang" />
-  <br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/><br/>
 </p>
 
 <p align='left'>
