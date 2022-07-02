@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- A Data Engineer working on Building Data Platform, ETL Development and Data Visualization
-- Mandarin-Japanese-English trilingual speaker
-- Fingerstyle guitarist
+- 🧑‍💻 Data Engineer working on designing, building, operationalizing, securing, and monitoring data processing systems.
+- 💬 Mandarin-Japanese-English trilingual speaker
+- 🎸 Fingerstyle Guitarist
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html,Pug,Dockerfile" alt="aibazhang" />
