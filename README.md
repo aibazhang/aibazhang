@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🧑‍💻 Data Engineer working on designing, building, operationalizing, securing, and monitoring data processing systems.
+- 🧑‍💻 Data Engineer working on designing, building, operationalizing, securing, and monitoring data processing systems. [Blog (Japanese)](https://zenn.dev/jcc)
 - 💬 Mandarin-Japanese-English trilingual speaker
 - 🎸 Fingerstyle Guitarist
 
@@ -30,13 +30,11 @@ Here are some ideas to get you started:
   <b>Cloud Provider & Framework & Other Tools</b><br/>
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white />
-  <br/>
   <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
