@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📘 Blog
   - [Zenn](https://zenn.dev/jcc) (日本語) 
   - [SBB](https://buildersbox.corp-sansan.com/search?q=%E5%BC%B5%E3%81%A7%E3%81%99%E3%80%82) (日本語) 
-  - [https://medium.com/@dtjp](https://medium.com/@dtjp) (English)
+  - [Medium](https://medium.com/@dtjp) (English)
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html,Pug,Dockerfile" alt="aibazhang" />
