@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎸 Fingerstyle Guitarist
 - 📘 Blog
   - [Zenn](https://zenn.dev/jcc) (日本語) 
-  - [Sansan Tech Blog](https://buildersbox.corp-sansan.com/search?q=%E3%82%B8%E3%83%A3%E3%83%B3%28) (日本語) 
+  - [Sansan Tech Blog](https://buildersbox.corp-sansan.com/archive/author/jczh) (日本語) 
   - [Medium](https://medium.com/@dtjp) (English)
 
 <p align="left">
