@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🧑‍💻 DevOps/Data Engineer
-- 💬 Mandarin-Japanese-English trilingual speaker
+- 🧑‍💻 DevOps Engineer
+- 💬 zh-ja-en trilingual speaker
 - 🎸 Fingerstyle Guitarist
-- 📘 Blog
-  - [Zenn](https://zenn.dev/jcc) (日本語) 
-  - [Sansan Tech Blog](https://buildersbox.corp-sansan.com/archive/author/jczh) (日本語) 
-  - [Medium](https://medium.com/@dtjp) (English)
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html,Pug,Dockerfile" alt="aibazhang" />
