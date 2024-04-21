@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🧑‍💻 DevOps Engineer
-- 💬 zh-ja-en trilingual speaker
-- 🎸 Fingerstyle Guitarist
+
+- A Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 👨‍💻🗼
+- A basketball and fingerstyle guitar enthusiast. 🏀🎸
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html,Pug,Dockerfile" alt="aibazhang" />
