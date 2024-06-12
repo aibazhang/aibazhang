@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - A Mandarin-Japanese-English trilingual DevOps Engineer base in Tokyo. 👨‍💻🗼
 - A basketball and fingerstyle guitar enthusiast. 🏀🎸
+- [Sansan Tech Blog](https://buildersbox.corp-sansan.com/archive/author/jczh)
+- [Personal Blog](https://www.kinjo.tech/)
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibazhang&layout=compact&hide=CSS,Less,SCSS,Stylus,html,Pug,Dockerfile" alt="aibazhang" />
